@@ -1,0 +1,16 @@
+{
+    "name": "mzmarkib/dexfolio_listing_check",
+    "description": "Check if token supported by dexfolio app",
+    "autoload": {
+        "psr-4": {
+            "Mzmarkib\\DexfolioListingCheck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mzmarkib",
+            "email": "mzmarkib@gmail.com"
+        }
+    ],
+    "require": {}
+}
